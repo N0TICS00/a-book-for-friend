@@ -77,8 +77,7 @@ For run this project on your pc you have to follow these steps
    ```JS
    module.exports = {
     'apiKeyGoogle' : "Enter your api",
-    'apiKeyNYT' : "Enter your api"
-};
+    'apiKeyNYT' : "Enter your api"};
    ```
 
 
