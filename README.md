@@ -45,7 +45,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![A book for friend](https://user-images.githubusercontent.com/76558194/141333304-2b74f81b-ce1d-4899-ad72-a42fd97d342d.png)
+
 It's a site that allows you to search for books through a simple and intuitive design. It also features a list of the best sellers of the week
 ### Built With
 
